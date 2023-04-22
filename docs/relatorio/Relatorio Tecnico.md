@@ -52,56 +52,25 @@ Trabalho Interdisciplinar: aplicacoes web
 
 ## Problema
 
-O projeto Meu Pet foi desenvolvido tendo em mente os entraves presentes na vida de muitos “pais de pet”. Em específico, procuramos, com a plataforma, resolver três principais problemas: como procurar um animal de estimacao que fugiu; como colocar pessoas dispostas a adotar pets em contato com individuos que desejam colocar pets em adocao; e como encontrar treinadores de animais, dignos de confianca, de forma a estimular o bom-comportamento do pet.
+O projeto Meu Pet foi desenvolvido tendo em mente os entraves presentes na vida de muitos “pais de pet”. Em específico, procuramos, com a plataforma, resolver três principais problemas: como procurar um animal de estimação que fugiu; como colocar pessoas dispostas a adotar pets em contato com individuos que desejam colocar pets em adoção; e como encontrar treinadores de animais, dignos de confiança, de forma a estimular o bom-comportamento do pet.
 
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O propósito central do nosso projeto é criar um software que possa proporcionar auxílio a pessoas envolvidas de alguma maneira com animais de estimação. Especificamente, buscamos desenvolver uma ferramenta que ofereça suporte a indivíduos interessados em adotar pets, aqueles que encontraram um animal abandonado nas ruas ou que precisam de assistência profissional no comportamento de seus animais de estimação.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
+Nossa motivação para trabalhar com o tema pets foi ter em vista que hoje em dia existem cerca de 87 milhões de animais de companhia no Brasil, ou seja, é um tema muito atual e frequente no nosso país. A função do nosso projeto, tendo em vista que nosso público alvo são pessoas envolvidas com animais de estimação, é apresentar ferramentas para auxiliar milhões de brasileiros que de alguma forma enfrentam algum problema, seja em relação ao comportamento do pet, ou tem problemas com adoção, ou em relação a animais que fugiram. 
 >
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
+Pessoas de todas as idades que, por serem envolvidos de alguma forma com animais de estimação, desejam buscar, adotar, ou adestrá-los. Moram no Brasil e têm muita relação com a internet, onde iram se informar no nosso software. 
 >
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 

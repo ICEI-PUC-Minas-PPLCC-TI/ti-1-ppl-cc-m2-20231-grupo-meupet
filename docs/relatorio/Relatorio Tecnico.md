@@ -78,77 +78,65 @@ Nesta parte do documento, abordaremos personas, propostas de valor e empatia tra
 
 ## Personas, Empatia e Proposta de Valor
 
-![Aline Gomes](images/AlineGomes.jpg)
-Aline Gomes 
-24 anos
-________________
-Sobre ela:
-Jornalista
-Gosta de pintura
-Objetivos:
-Achar seu pet que fugiu
-Desafios:
-Não sabe por onde começar a procurar
-Como posso ajudá-la:
-Ajudar na divulgação do pet perdido.
-________________
-Produtos e serviços: Divulgação de animais de estimação que fugiram.
-Criadores de ganhos: Oportunidades de encontrar o pet.
-Analgésicos: Melhor conexão entre pessoas.
-________________
-Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
-Dores: Preocupação se irá achar seu animal.
-Tarefas do cliente: Divulgar fotos do pet no site.
+<img src="images/AlineGomes.jpg" style="width: 50%">
+
+- Aline Gomes: 24 anos
+  - Sobre ela:
+    - Jornalista
+    - Gosta de pintura
+  - Objetivos:
+    - Achar seu pet que fugiu
+  - Desafios:
+    - Não sabe por onde começar a procurar
+  - Como posso ajudá-la:
+    - Ajudar na divulgação do pet perdido.
+  - Produtos e serviços: Divulgação de animais de estimação que fugiram.
+  - Criadores de ganhos: Oportunidades de encontrar o pet.
+  - Analgésicos: Melhor conexão entre pessoas.
+  - Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
+  - Dores: Preocupação se irá achar seu animal.
+  - Tarefas do cliente: Divulgar fotos do pet no site
 
 
 
-![Paula assis](images/PaulaAssis.jpg)
-Paula Assis
-28 anos
-________________
-Sobre:
-Enfermeira
-Ama fotografia
-Objetivos:
-Achar alguém que queira adotar seu animal de estimação.
-Desafios:
-Encontrar uma pessoa confiável que cuide bem dos animais.
-Como posso ajudá-la:
-Divulgando em nosso site fotos dos animais de Paula para que alguém que queira adotar possa encontrá-los.
-________________
-Produtos e serviços: Divulgação de animais de estimação para adoção.
-Criadores de ganhos: Oportunidades de encontrar um pet para você.
-Analgésicos: Melhor conexão entre pessoas.
-________________
-Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
-Dores: Vontade de colocar para adoção um pet.
-Tarefas do cliente: Divulgar fotos do pet no site para que alguém interessado nele possa vê-lo.
+<img src="images/PaulaAssis.jpg" style="width: 50%">
+
+- Paula Assis: 28 anos
+  - Sobre:
+    - Enfermeira
+    - Ama fotografia
+  - Objetivos:
+    - Achar alguém que queira adotar seu animal de estimação.
+  - Desafios:
+    - Encontrar uma pessoa confiável que cuide bem dos animais.
+  - Como posso ajudá-la:
+    - Divulgando em nosso site fotos dos animais de Paula para que alguém que queira adotar possa encontrá-los.
+  - Produtos e serviços: Divulgação de animais de estimação para adoção.
+  - Criadores de ganhos: Oportunidades de encontrar um pet para você.
+  - Analgésicos: Melhor conexão entre pessoas.
+  - Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
+  - Dores: Vontade de colocar para adoção um pet.
+  - Tarefas do cliente: Divulgar fotos do pet no site para que alguém interessado nele possa vê-lo.
 
 
-![Lucas Figueiredo](images/LucasFigueiredo.jpg)
-Lucas Figueiredo
-18 anos
-________________
-Sobre:
-Estudante
-Gosta de surfar
-Objetivos:
-Precisa de ajuda com o comportamento do seu pet.
-Desafios:
-Não entende nada sobre adestramento de cães.
-Como posso ajudá-lo:
-Disponibilizando em nosso site dicas de adestramento, e contatos de profissionais na área.
-________________
-Produtos e serviços: Divulgação de serviços de adestramento.
-Criadores de ganhos: Oportunidades de melhorar o comportamento do pet.
-Analgésicos: Melhor conexão entre pessoas.
-________________
-Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
-Dores: Preocupação se irá achar alguém qualificado.
-Tarefas do cliente: Procurar o contato de adestradores no site.
+<img src="images/LucasFigueiredo.jpg" style="width: 50%">
 
-
-
+- Lucas Figueiredo: 18 anos
+  - Sobre:
+    - Estudante
+    - Gosta de surfar
+  - Objetivos:
+    - Precisa de ajuda com o comportamento do seu pet.
+  - Desafios:
+    - Não entende nada sobre adestramento de cães.
+  - Como posso ajudá-lo:
+    - Disponibilizando em nosso site dicas de adestramento, e contatos de profissionais na área.
+  - Produtos e serviços: Divulgação de serviços de adestramento.
+  - Criadores de ganhos: Oportunidades de melhorar o comportamento do pet.
+  - Analgésicos: Melhor conexão entre pessoas.
+  - Ganhos: Em virtude do uso do site, o usuário conseguirá encontrar o que está procurando.
+  - Dores: Preocupação se irá achar alguém qualificado.
+  - Tarefas do cliente: Procurar o contato de adestradores no site.
 
 
 ## Histórias de Usuários
@@ -228,7 +216,7 @@ A plataforma foi elaborada inteiramente de forma a solucionar os entraves encont
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na construcao da plataforma, utilizamos diversos _workflows_ que nos permitiram atingir nosso objetivo tecnico. Entre eles, destacam-se o GitHub (_version control software_), o Figma (para _design_), o Visual Studio Code (para a edicao de codigo) e o Miro (_brainstorming_ e definicao de prioridades e de funcionalidades). Somado a isso, fizemos uso das metodologias ageis, de forma de aumentar a eficiencia da Equipe, e de tecnologias de comunicacao em tempo real, como o Discord e o Whatsapp; que visaram a(com crase) manutencao da sinergia do time.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 

@@ -216,7 +216,7 @@ A plataforma foi elaborada inteiramente de forma a solucionar os entraves encont
 
 # Metodologia
 
-Na construcao da plataforma, utilizamos diversos _workflows_ que nos permitiram atingir nosso objetivo tecnico. Entre eles, destacam-se o GitHub (_version control software_), o Figma (para _design_), o Visual Studio Code (para a edicao de codigo) e o Miro (_brainstorming_ e definicao de prioridades e de funcionalidades). Somado a isso, fizemos uso das metodologias ageis, de forma de aumentar a eficiencia da Equipe, e de tecnologias de comunicacao em tempo real, como o Discord e o Whatsapp; que visaram a(com crase) manutencao da sinergia do time.
+Na construção da plataforma, utilizamos diversos _workflows_ que nos permitiram atingir nosso objetivo técnico. Entre eles, destacam-se o GitHub (_version control software_), o Figma (para _design_), o Visual Studio Code (para a edicao de codigo) e o Miro (_brainstorming_ e definição de prioridades e de funcionalidades). Somado a isso, fizemos uso das metodologias ageis, de forma de aumentar a eficiencia da Equipe, e de tecnologias de comunicação em tempo real, como o Discord e o Whatsapp; que visaram a(com crase) manutenção da sinergia do time.
 
 ## Divisão de Papéis
 
@@ -242,38 +242,8 @@ João vaz: Apresentação, concepção, relatório.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para o desenvolvimento do site, fizemos uso do git e do Github. O primeiro é um software de versionamento de código; ao passo que o segundo, uma plataforma para armazenar e compartilhar código fonte. Utilizamos essas duas ferramentas por intermédio do uso de branches e da realização de commits: cada incremento nas funcionalidades da plataforma é identificado por um commit, de autoria de um dos membros do time. Por se tratar de um projeto não só majoritariamente dissertativo (representados, aqui, pelos extensos e múltiplos arquivos README), como também relativamente enxuto na quantidade de arquivos, preferimos por fazer uso de apenas uma branch - a master. Assim, nosso controle de versão se deu, em resumo, na forma de commits unitários na branch master.
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 

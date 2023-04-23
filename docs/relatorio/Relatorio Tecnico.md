@@ -74,11 +74,7 @@ Pessoas de todas as idades que, por serem envolvidos de alguma forma com animais
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nesta parte do documento, abordaremos personas, propostas de valor e empatia trabalhadas com o auxílio da plataforma Miro.
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -119,8 +115,8 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Aline Gomes       | Achar meu pet               | Dedicar a ele o carinho que merece |
-|Paula Assis       | Encontrar pais adotivos para o meu pet                 | Que ele receba o cuidado e a atencao que merece |
-|Lucas Figueiredo       | Treinar meu pet                | Que ele nao ataque pessoas na rua |
+|Paula Assis       | Encontrar pais adotivos para o meu pet                 | Que ele receba o cuidado e a atenção que merece |
+|Lucas Figueiredo       | Treinar meu pet                | Que ele não ataque pessoas na rua |
 
 
 ## Requisitos
@@ -132,7 +128,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Encontrar um animal | ALTA | 
-|RF-002| Colocar animais em adocao   | MÉDIA |
+|RF-002| Colocar animais em adoção   | MÉDIA |
 |RF-003| Colocar pais de pet e treinadores em contato   | BAIXA |
 
 
@@ -140,7 +136,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Conexao com a internet |  ALTA |
+|RNF-001| Conexão com a internet |  ALTA |
 |RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
 |RNF-003| Acesso a tecnologia |  BAIXA |
 
@@ -152,12 +148,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03| A plataforma fara uso apenas de ferramentas aprendidas em sala de aula |
+|03| A plataforma fará uso apenas de ferramentas aprendidas em sala de aula |
 
 
 # Projeto de Interface
 
-A plataforma foi elaborada inteiramente de forma a solucionar os entraves encontrados pelos nossos usuarios. A tela de login, por exemplo, eh limpa e minimalista - aos moldes do _state of the art_ dos dias atuais. Alem disso, a logica por tras da funcao de busca por pets fugidos agrupa os animais em ordem cronologica - o que aumenta as chances do usuario ajudar na busca pelo pet. Por fim, a tela de treinamento, que associa donos de pets a treinadores locais, nao so apresenta diversos profissionais, como tambem uma breve descricao de cada um; permitindo ao usuario escolher a pessoa cujas caracteristicas mais se encaixem nos seus gostos e necessidades pessoais.
+A plataforma foi elaborada inteiramente de forma a solucionar os entraves encontrados pelos nossos usuários. A tela de login, por exemplo, é limpa e minimalista - aos moldes do _state of the art_ dos dias atuais. Além disso, a logica por trás da função de busca por pets fugidos agrupa os animais em ordem cronológica - o que aumenta as chances do usuário ajudar na busca pelo pet. Por fim, a tela de treinamento, que associa donos de pets a treinadores locais, não só apresenta diversos profissionais, como tambem uma breve descrição de cada um; permitindo ao usuario escolher a pessoa cujas características mais se encaixem nos seus gostos e necessidades pessoais.
 
 ## User Flow
 

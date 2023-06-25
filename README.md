@@ -7,6 +7,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Joao Vaz
 * Isabela Braga
 * Gustavo Lopes
+* Bernardo Augusto Vieira
 
 ## Professores responsáveis
 

@@ -10,7 +10,7 @@ function leDados(){
     else{
         objDados={treinadores: [
             {email: "antonio123@hotmail.com", nome:"Antônio", sobrenome:"Limões", telefone:"31987654321", foto:"https://burst.shopifycdn.com/photos/smiling-man-in-blue.jpg?width=1200&format=pjpg&exif=1&iptc=1"},
-            {email: "igor123@hotmail.com", nome:"Igor", sobrenome:"Sales", telefone:"31999999999",foto:"https://thumbs.dreamstime.com/b/retrato-de-um-homem-maduro-que-sorri-na-c%C3%A2mera-imagem-conservada-em-estoque-86744321.jpg"},
+            {email: "igor123@hotmail.com", nome:"Igor", sobrenome:"Sales", telefone:"31999999999",foto:"https://img.freepik.com/fotos-gratis/retrato-de-homem-feliz-e-sorridente_23-2149022620.jpg"},
             {email: "erik@hotmail.com", nome:"Erik", sobrenome:"Costa", telefone:"31988888888", foto:"https://st2.depositphotos.com/1743476/11581/i/450/depositphotos_115812380-stock-photo-cool-african-man.jpg"}]
         }
     }

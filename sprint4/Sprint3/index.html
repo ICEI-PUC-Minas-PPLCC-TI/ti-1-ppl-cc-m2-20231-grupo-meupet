@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="meupet.css">
+  <script defer src="meupet.js"></script>
+    <title>Cadastro de pet encontrado</title>
+</head>
+  
+
+<body>
+  <header class="main_header container">        
+    <div class="content">
+    
+        <article class="caixa-logo">
+            <img src="logopet2.png">
+        </article>
+    
+    </div>
+      <h2>Cadastro de pet encontrado:</h2>
+</header>
+    <div class="container">
+        <form>
+          <a href="pets-encontrados.html">Ver pets cadastrados</a>
+           <div class="custom-file">
+                <input id="foto" type="file" class="custom-file-input">
+                <label class="custom-file-label">Publique uma foto do pet encontrado:</label>
+              </div>
+              <div class="form-group">
+                <label>Contato</label>
+                <input required id="contato" type="text" class="form-control" placeholder="Digite seu contato:">
+              </div>
+           
+            <div class="form-group">
+              <label>Espécie</label>
+              <input required id="especie" type="text" class="form-control" placeholder="Qual a raça/espécie do pet encontrado:">
+            </div>
+          <div class="form-group">
+              <label>Sexo</label>
+              <input required id="sexo" type="text" class="form-control" placeholder="Masculino ou Feminino:">
+            </div>
+            <div class="form-group">
+              <label>Localização</label>
+              <input required id="loc" type="text" class="form-control" placeholder="Onde o pet foi encontrado:">
+            </div>
+            <div class="form-group">
+                <label>Descreva</label>
+                <textarea required id="desc" type="text" class="form-control" placeholder="Descreva a aparência e comportamento do pet:"></textarea>
+              </div>
+          
+            <button type="submit" class="btn btn-primary">Cadastrar pet</button>
+          <footer>
+        <p>&copy; 2023 Meu Pet. Todos os direitos reservados.</p>
+    </footer>
+          </form>
+    </div>
+ 
+
+</body>
+   
+
+</html>

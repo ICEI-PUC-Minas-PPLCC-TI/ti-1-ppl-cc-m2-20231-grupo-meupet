@@ -124,3 +124,6 @@ footer {
     background-color: beige;
     font-size: small;
 }
+.content{
+    border: solid;
+}
